@@ -8,9 +8,9 @@ function callMe() {
 
 }
 
-
+var thisIsCrazy = function (){
 function crazy() {
-  var thisIsCrazy = function (){// fix the code in here:
+  // fix the code in here:
   thisIsCrazy();
 
 
